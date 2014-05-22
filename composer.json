@@ -6,11 +6,5 @@
     "keywords": [
         "less"
     ],
-    "homepage": "https://github.com/AndKr/vitaclub",    
-    "target-dir": "assets/less/tunnel23",
-    "packages": {
-        "AndKr/vitaclub-less": {
-            "dev-master": "styleguide/less/composer.json"
-        }
-    }
+    "homepage": "https://github.com/AndKr/vitaclub"
 }
