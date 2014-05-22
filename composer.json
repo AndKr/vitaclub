@@ -10,7 +10,7 @@
     "target-dir": "assets/less/tunnel23",
     "packages": {
         "AndKr/vitaclub-less": {
-            "dev-master": { @composer.json }
+            "dev-master": "styleguide/less/comopser.json"
         }
     }
 }
