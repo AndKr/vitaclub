@@ -2,6 +2,7 @@
     "name": "AndKr/vitaclub",
     "description": "Less Data from tunnel23",
     "license": "BSD-3-Clause",
+    "type": "library",
     "keywords": [
         "less"
     ],
