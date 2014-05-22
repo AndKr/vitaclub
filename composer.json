@@ -6,6 +6,11 @@
     "keywords": [
         "less"
     ],
+    "autoload": {
+        "psr-0": {
+            "Less\\": "styleguide/less/"
+        }
+    },
     "homepage": "https://github.com/AndKr/vitaclub",
     "replace": {
         "AndKr/vitaclub-less": "self.version"
