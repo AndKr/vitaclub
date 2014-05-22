@@ -6,5 +6,8 @@
     "keywords": [
         "less"
     ],
-    "homepage": "https://github.com/AndKr/vitaclub"
+    "homepage": "https://github.com/AndKr/vitaclub",
+    "replace": {
+        "AndKr/vitaclub-less": "self.version"
+    }
 }
