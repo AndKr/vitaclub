@@ -1,0 +1,13 @@
+{
+    "name": "AndKr/vitaclub-less",
+    "description": "Less Data from tunnel23",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "less"
+    ],
+    "homepage": "https://github.com/AndKr/vitaclub",    
+    "target-dir": "assets/less/tunnel23",
+    "require": {
+        
+    },   
+}
