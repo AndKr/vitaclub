@@ -8,7 +8,9 @@
     ],
     "homepage": "https://github.com/AndKr/vitaclub",    
     "target-dir": "assets/less/tunnel23",
-    "require": {
-        
+    "packages": {
+        "AndKr/vitaclub-less": {
+            "dev-master": { @composer.json }
+        }
     }
 }
