@@ -6,8 +6,5 @@
         "less"
     ],
     "homepage": "https://github.com/AndKr/vitaclub",    
-    "target-dir": "assets/less/tunnel23",
-    "require": {
-        
-    }   
+    "target-dir": "assets/less/tunnel23"
 }
